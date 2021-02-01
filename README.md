@@ -1,4 +1,6 @@
-# Single-cell RNA-seq analysis workshop 
+A tutorial
+
+# Single-cell RNA-seq analysis workshop
 
 | Audience | Computational skills required| Duration |
 :----------|:----------|:----------|
